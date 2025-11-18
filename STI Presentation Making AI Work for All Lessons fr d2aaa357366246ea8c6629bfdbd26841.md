@@ -10,7 +10,11 @@
 
 ## Synopsis
 
-**Will we manage AI's challenges better than we managed globalization, or repeat those mistakes?** Artificial intelligence is transforming our world faster than any previous technological revolution. Through live demonstrations and lessons from past disruptions, this interactive session reveals why central banks face a critical choice: seize the opportunity while managing the inevitable instability ahead. The question isn't whether AI transforms economies—it's how we manage the transition for the benefit of our citizens. 
+**Will we manage AI's challenges better than we managed globalization, or repeat those mistakes?** Artificial intelligence is transforming our world faster than any previous technological revolution. Through live demonstrations and lessons from past disruptions, this interactive session reveals why central banks face a critical choice: seize the opportunity while managing the inevitable instability ahead. The question isn't whether AI transforms economies—it's how we manage the transition for the benefit of our citizens.
+
+**Speaker Note**: This session is designed for senior policymakers who need both conceptual frameworks and practical guidance. You'll see live AI demonstrations, engage with historical patterns from technological revolutions, and leave with actionable strategies. The goal is not to make you AI experts, but to equip you with the institutional perspective needed to navigate this transformation—recognizing both the genuine opportunities and the inevitable disruptions ahead. We'll balance optimism with realism, drawing on Singapore's experience while acknowledging the uncertainties that remain.
+
+**Visual Suggestion**: Opening slide with split image - historical industrial revolution scene on left, modern AI data center on right, with timeline arrow connecting them. Title overlay: "Will we get it right this time?" 
 
 ---
 
@@ -23,6 +27,10 @@
 ## Opening (3 min): Set the Stakes
 
 **Opening provocation**: "In 1821, David Ricardo changed his mind about machines and workers. Two centuries later, we're facing the same question—but this time, we get to choose the answer."
+
+**Speaker Note**: Start with energy and establish credibility immediately. Ricardo's pivot is a powerful hook because it shows even brilliant economists can be surprised by technology's distributional effects. In 1817, he believed machinery would benefit all. By 1821, witnessing the collapse of handloom weavers' wages, he wrote a new chapter admitting he was wrong—machinery could harm workers. This isn't about technology pessimism; it's about acknowledging that outcomes depend on choices, not inevitability. You're here because your institutions make those choices. Set expectation: this will be interactive, practical, and grounded in historical patterns while looking forward.
+
+**Visual Suggestion**: Portrait of David Ricardo with quote overlay: "My opinion on this subject has, on further reflection, undergone a considerable change" (1821). Small text showing wage collapse data 1810s-1820s for context.
 
 ---
 
@@ -37,16 +45,24 @@
 - ChatGPT: 100M users in 2 months vs. 4.5 years for the internet
 - Policy response time compressed dramatically
 
+**Speaker Note**: This isn't just incremental change. ChatGPT reached 100 million users faster than any consumer technology in history. TikTok took 9 months, Instagram 2.5 years, Facebook 4.5 years. UBS analysts noted: "In 20 years following the Internet space, we cannot recall a faster ramp." For policymakers, this creates unprecedented pressure—you have months, not years, to develop institutional responses. Traditional policy cycles can't keep pace.
+
+**Visual Suggestion**: Adoption curve chart comparing time to 100M users: ChatGPT (2 months), TikTok (9 months), Instagram (2.5 years), Facebook (4.5 years), Internet (4.5 years). Source data from AI Impacts/Epoch AI.
+
 **Cognitive Automation**
 
 - First technology to automate *knowledge work* at scale
 - Affects economists, analysts, policymakers directly
 - Changes the core work of central banks
 
+**Speaker Note**: Previous technological revolutions automated physical labor—assembly lines, manufacturing, agriculture. AI automates the work done by people in this room: research, analysis, forecasting, report writing. The IMF economist drafting a surveillance report, the central bank analyst running stress tests, the policy advisor preparing briefing notes—these are the tasks AI targets first. This isn't someone else's problem. It's transforming your institutions from the inside.
+
 **Compounding Intelligence**
 
 - AI improves AI development itself (e.g., DeepSeek reducing training costs 95%)
 - Exponential progress curve, not linear
+
+**Speaker Note**: AI is now designing better AI. DeepSeek-V3 dramatically reduced training costs while improving performance—AI models optimizing their own architecture. This creates compounding returns: each generation of AI makes the next generation arrive faster and work better. Unlike previous technologies where progress was linear, AI progress may be exponential. We're in the steep part of the curve.
 
 ### For Central Banks Specifically
 
@@ -57,10 +73,16 @@
 - Fraud detection and AML with 30%+ accuracy improvements
 - Regulatory reporting automation reducing costs 40%
 
+**Speaker Note**: These aren't hypothetical use cases—they're already deployed. According to a 2024 IFC survey of 60 central banks, over 70% of major financial institutions are using AI at scale, and 91% of US banks employ AI for fraud detection. Nearly half of central banks plan to invest at least 5% of their budget in AI over the next three years. MAS in Singapore has achieved 30% reduction in false positives in transaction monitoring, 40% cost reduction in regulatory reporting. The Bank of England, Reserve Bank of India, and Federal Reserve are all piloting AI for forecasting and risk detection. The question for this room isn't "should we?" but "how fast?" and "how well?"
+
+**Visual Suggestion**: Infographic showing central bank AI adoption statistics: 70% of major institutions using AI at scale (2025), 91% of banks using AI for fraud detection, 50% of central banks investing 5%+ of budget. Icons for key use cases: fraud detection, stress testing, forecasting, regulatory compliance.
+
 <aside>
 💡
 
 **Quick Poll**: "Which function in your institution has experimented with AI?" (Show of hands)
+
+**Note to speaker**: This poll serves multiple purposes: (1) gauges room's experience level, (2) creates peer learning opportunity, (3) normalizes that most institutions are exploring AI. Expect varied responses—fraud/AML usually leads, followed by research/analysis functions. If very few hands go up, adjust tone to be more introductory. If many hands, lean into sophistication and go deeper on governance challenges.
 
 </aside>
 
@@ -156,22 +178,34 @@ AI will confidently hallucinate numbers and facts. It cannot truly understand po
 - Technology arrived fast; wage gains took 60+ years
 - Required complementary investments: education, infrastructure, legal reform
 
+**Speaker Note**: Between 1780 and 1840, output per worker rose 46% but real wages only 12%. Workers didn't see productivity gains for two generations. Why? The economy lacked complementary systems—mass education, labor rights, social safety nets. These had to be built deliberately through public policy. Friedrich Engels documented "The Condition of the Working Class" in 1845—horrific. Only after 1840, when institutional reforms caught up, did wages rise in line with productivity. The technology worked. The transition failed.
+
+**Visual Suggestion**: Chart showing divergence: productivity line rising sharply 1780-1840 (+46%), wages flat (+12%). Then convergence post-1840. Source: Robert Allen, "Engels' Pause" (2009). Annotate key policy interventions: Factory Acts, education reform, trade union legalization.
+
 **Electricity (1880s-1920s)**: The Factory Layout Problem
 
 - Productivity gains only appeared when factories *redesigned* around electricity
 - **Lesson**: Technology ≠ Transformation
+
+**Speaker Note**: Paul David's famous study: factories got electricity in the 1890s but productivity didn't improve until the 1920s. Why? They kept the same layout designed for steam power—central engine, belt drives. Only when they redesigned around electric motors (distributed power, flexible layouts) did productivity soar. The lesson: installing technology isn't enough. You must reorganize workflows, retrain workers, rethink processes. AI is the same. Buying ChatGPT licenses won't transform your institution. Redesigning how analysts work, how teams collaborate, how decisions flow—that's transformation.
 
 **Information Revolution (1980s-2000s)**: The Solow Paradox
 
 - "Computers everywhere except in productivity statistics"
 - Took 20+ years; meanwhile: hollowed middle class, wage stagnation, populism
 
+**Speaker Note**: Nobel laureate Robert Solow quipped in 1987: "You can see the computer age everywhere but in the productivity statistics." Productivity gains from IT finally appeared in the late 1990s—but by then, the middle class was hollowed out. Routine jobs automated, wage inequality soared, manufacturing communities devastated. We got the technology gains eventually, but we failed the social transition. The result? Trade populism, political polarization, Brexit, Trump. Those weren't technology failures—they were policy failures. We didn't build the bridge between the old economy and the new one.
+
 ### The Central Question for This Room
 
 > **"Will we manage the AI transition better than we managed globalization? Because the social and political costs of getting this wrong are already visible."**
-> 
+>
 
 **Key Insight**: The transitions that worked best had **strong public sector leadership** coordinating investments in education, infrastructure, legal reform, and social safety nets.
+
+**Speaker Note**: Every successful technology transition required active government. The invisible hand doesn't build public education systems, labor protections, or social safety nets. Markets deploy technology efficiently; they don't ensure transitions are equitable. That's your job. The question isn't whether AI will improve productivity—it will. The question is whether 20 years from now, you'll look back and say "we got the transition right" or "we repeated our mistakes."
+
+**Visual Suggestion**: Three-panel comparison chart: Industrial Revolution (60-year wage lag), Electricity (30-year adoption lag), Information Revolution (20-year productivity lag with inequality surge). Each panel shows the lag period in red, eventual gains in green, with annotation of key policy responses that eventually worked.
 
 ---
 
@@ -285,12 +319,20 @@ Rate your institution 1-5 on each dimension (1=not started, 5=advanced):
 - S$1B investment over 5 years
 - S$500M in high-performance compute
 
+**Speaker Note**: Singapore's approach is instructive not because you should copy it—your contexts differ—but because it shows coordinated national strategy in action. Key insight: Singapore isn't trying to beat the US or China at frontier AI. That would be futile. Instead, they're building strategic capabilities: regional language models (SEA-LION), applied AI for national priorities (healthcare, finance, government services), and positioning Singapore as the connector between global AI capabilities and regional needs. Notice the scale: S$1B over 5 years for a nation of 6 million—that's approximately $30 per capita annually. For comparison, consider what that translates to for your economy. The workforce target (15,000 AI professionals) represents about 0.4% of Singapore's workforce. What would 0.4% of your workforce look like if skilled in AI deployment?
+
+**Visual Suggestion**: Three-circle Venn diagram showing Singapore's AI ecosystem: AI Singapore (research/talent), GovTech (government deployment), MAS (financial sector regulation), with "National AI Strategy 2.0" at the intersection. Include S$1B investment figure and 15,000 workforce target prominently.
+
 **From Domestic → Global Outlook**
 
 - Position Singapore as *connector*, not competitor
 - SEA-LION: Open-source LLM family for 11 Southeast Asian languages
 - Built with Google, AWS, NVIDIA, regional universities
 - Goal: Democratize AI access across the region
+
+**Speaker Note**: SEA-LION (Southeast Asian Languages In One Network) deserves attention as a model for regional collaboration. It's trained on 500 billion tokens across 11 languages: Burmese, Cebuano, English, Indonesian, Khmer, Lao, Malay, Mandarin, Tagalog, Tamil, Thai, Vietnamese. The latest version (v4) is multimodal—handles both text and images—and can run on a laptop. Critically, it's open-source, not controlled by any single government or corporation. No individual country in Southeast Asia could have built this alone. Singapore coordinated the consortium: Malaysia, Indonesia, Thailand, Philippines, Vietnam, Cambodia, Laos, Myanmar, Brunei, Timor-Leste, plus Google, AWS, NVIDIA, and regional universities. This is strategic sovereignty through cooperation, not isolation. The model reduces dependency on US/China providers while preserving access to their technologies as infrastructure. Available at sea-lion.ai and GitHub.
+
+**Visual Suggestion**: Map of Southeast Asia with 11 participating countries highlighted. SEA-LION logo at center. Icons showing: 500B tokens, 11 languages, open-source badge. Partner logos below: Google DeepMind, AWS, NVIDIA, regional universities. Include QR code linking to https://sea-lion.ai/
 
 **From Innovation → Responsible Adoption**
 
@@ -325,6 +367,10 @@ Rate your institution 1-5 on each dimension (1=not started, 5=advanced):
 **Carlota Perez's Framework: Why Bubbles Are Part of the Pattern**
 
 Perez's *Technological Revolutions and Financial Capital* (2002) shows every major tech revolution follows: **bubble → crash → golden age**
+
+**Speaker Note**: This is the most theoretically sophisticated section, and it resonates powerfully with this audience. Carlota Perez, Venezuelan economist, studied five major technological revolutions over 250 years and found the same pattern repeating: initial speculation creates asset bubbles that finance infrastructure build-out, inevitable crash, then regulatory reform enables broad deployment and shared prosperity—the "golden age." The pattern isn't a bug, it's a feature. Bubbles, painful as they are, serve an economic function: they mobilize capital at scale to build infrastructure that wouldn't be financed through rational calculation alone. Your challenge: prepare for the crash without killing the innovation. This framework helps you think systematically about where we are and what comes next.
+
+**Visual Suggestion**: Carlota Perez two-phase diagram showing Installation Period (Irruption → Frenzy → Crash) and Deployment Period (Synergy/Golden Age → Maturity). Annotate with examples: Railway Mania (1840s), Dotcom (2000). Place "AI?" with question mark in frenzy phase.
 
 **The Five Historical Revolutions:**
 
@@ -365,6 +411,10 @@ Perez's *Technological Revolutions and Financial Capital* (2002) shows every maj
 - AI startups at 50-100x revenue multiples
 - $500B in data center investments announced
 - "AI-washing" to boost stock prices
+
+**Speaker Note**: Let's be specific about the bubble dynamics. NVIDIA stock has increased 10-fold since October 2022—from around $100 to over $1,400 per share in 2024, making it briefly the world's most valuable company at $4 trillion market cap. That's faster appreciation than any comparable period in tech history. Investors who bought at the bottom saw 10X returns in less than three years. Since ChatGPT's launch, NVIDIA's stock is up twelvefold. Citi analysts explicitly compare 2024 to 1999, stating "this is shaping up to be a repeat." Yet JPMorgan CEO Jamie Dimon argues "this is not hype, it's real"—and he's not wrong. Both can be true: the technology is transformative AND valuations are irrational. That's exactly Perez's Installation Phase—rational infrastructure build financed by irrational exuberance.
+
+**Visual Suggestion**: NVIDIA stock chart 2022-2024 showing dramatic rise from $100 (Oct 2022) to $1,400+ (mid-2024). Annotate key events: ChatGPT launch (Nov 2022), crossing $1T market cap (May 2023), crossing $3T (June 2024), $4T peak. Compare to dotcom era NASDAQ chart for visual parallel.
 
 **Unique AI Bubble Risks:**
 
@@ -574,6 +624,10 @@ In 1821, Ricardo believed machinery would help everyone. By 1823, he changed his
 
 **But here's what's different now: We have his book to read. We know the pattern. We can choose differently.**
 
+**Speaker Note**: This is where you bring it home. Ricardo had to learn through painful experience. We have 200 years of evidence. Engels documented the Industrial Revolution's human cost. Solow warned about the productivity paradox. Perez showed us the bubble-crash-golden age cycle. We know technology doesn't automatically create shared prosperity. We know transitions require active management. We know bubbles burst but can leave productive infrastructure if we navigate wisely. We know wage-productivity divergence can last generations without policy intervention. The question isn't whether you know enough—you do. The question is whether you'll act on what you know. That's the privilege and burden of this room. You have agency. Ricardo didn't—he was discovering the problem in real time. You're armed with historical patterns, analytical frameworks, and institutional authority. The difference between AI being a story of shared prosperity versus concentrated gains comes down to the choices made by people in rooms like this one. Not by technologists. Not by markets. By policymakers.
+
+**Visual Suggestion**: Return to opening Ricardo portrait, but now with annotations: "1817: Optimistic about machinery" → "1821: Changed his mind" → "2025: We have his hindsight as our foresight". Timeline showing major tech transitions: Industrial Rev (managed poorly), Electricity (managed slowly), IT/Globalization (managed badly), AI (?). End with question mark and "Your choice."
+
 ---
 
 ## Three Imperatives for This Room
@@ -647,7 +701,7 @@ The technology will arrive whether we coordinate or not. But coordinated respons
 ## Final Thought
 
 > **"AI for the Public Good, for Singapore and the World"** — Singapore's National AI Strategy
-> 
+>
 
 The technology will arrive regardless. The algorithms will improve. The models will get more capable.
 
@@ -661,6 +715,10 @@ The questions are:
 - **How do we maintain democratic accountability?**
 
 You are the people with the responsibility—and the authority—to shape those answers.
+
+**Speaker Note**: End with conviction but without prescription. You're not telling them exactly what to do—contexts vary too much. But you're making crystal clear that inaction is a choice with consequences. "Public good for whom?" isn't rhetorical—it demands an answer. In Singapore's case, the answer explicitly includes the region, not just the city-state. What's your answer? Who decides—technologists? Markets? Or democratic institutions? This isn't anti-technology. It's pro-governance. The algorithms will get better whether you engage or not. Your job is to ensure that improvement translates to broadly shared prosperity, not concentrated extraction. This is fundamentally about power and distribution, not just efficiency and innovation. You can't outsource these questions to technical experts. They're political economy questions that require political economy answers. And you're the institutions capable of providing them.
+
+**Visual Suggestion**: Closing slide with Singapore's national AI motto "AI for the Public Good, for Singapore and the World" prominently displayed. Background: subtle network visualization suggesting interconnection. Below, the four questions displayed as large text. Very bottom: "The choice is yours" or "What's your answer?" No corporate logos, no tech imagery—keep it focused on human agency and institutional responsibility.
 
 <aside>
 ✅
@@ -768,6 +826,47 @@ Volunteers share. Write them down. Follow up in 30 days.
 **Adaptation**: Be ready to go deeper on financial stability vs. broader policy depending on audience. If time runs short, compress Singapore section to 7 min and cut one demo to 2 min.
 
 **Authenticity**: Acknowledge uncertainties honestly. You don't have all answers—neither does anyone else. That's why we need institutional collaboration.
+
+---
+
+## Visual Recommendations Summary
+
+This section consolidates all visual suggestions for easy reference when designing slides.
+
+### Opening & Synopsis
+1. **Opening slide**: Split image - historical industrial revolution (left) + modern AI data center (right), timeline arrow connecting, title overlay "Will we get it right this time?"
+2. **Ricardo slide**: Portrait with quote "My opinion on this subject has, on further reflection, undergone a considerable change" (1821), small text showing 1810s-1820s wage data
+
+### Part I: Why It Matters
+3. **Adoption curve chart**: Time to 100M users comparison - ChatGPT (2 mo), TikTok (9 mo), Instagram (2.5 yr), Facebook (4.5 yr), Internet (4.5 yr). Source: AI Impacts/Epoch AI
+4. **Central bank AI adoption infographic**: Statistics with icons - 70% institutions using AI at scale, 91% fraud detection, 50% investing 5%+ budget, key use cases icons
+5. **Three horizons diagram**: Timeline 2024-2030+ showing Copilots (Now-2026), Agents (2026-2030), Uncertainty (2030+) with example applications
+
+### Part II: What We Can Do
+6. **Engels' Pause chart**: Productivity vs wages divergence 1780-1840 showing productivity +46%, wages +12%, then convergence post-1840. Source: Robert Allen (2009). Annotate policy interventions
+7. **Three-panel comparison**: Industrial Revolution (60-yr lag), Electricity (30-yr lag), Information Revolution (20-yr lag + inequality). Red for lag period, green for gains, annotate policy responses
+8. **Cost tiers visual**: Three boxes showing investment levels - Low ($50K-200K), Mid ($500K-2M), Strategic ($5M-20M) with bullet points for each
+9. **Singapore ecosystem diagram**: Three-circle Venn - AI Singapore, GovTech, MAS, with National AI Strategy 2.0 at intersection. Include S$1B and 15,000 workforce figures
+10. **SEA-LION map**: Southeast Asia with 11 countries highlighted, logo at center, icons (500B tokens, 11 languages, open-source), partner logos, QR code to sea-lion.ai
+
+### Part III: Challenges
+11. **Carlota Perez diagram**: Two-phase cycle showing Installation Period (Irruption → Frenzy → Crash) and Deployment Period (Synergy → Maturity). Examples: Railway Mania, Dotcom. Place "AI?" in frenzy phase
+12. **NVIDIA stock chart**: 2022-2024 price movement from $100 (Oct 2022) to $1,400+ (2024). Annotate: ChatGPT launch, $1T cap, $3T cap, $4T peak. Compare to dotcom-era NASDAQ
+13. **Financial stability metrics dashboard**: Visual showing direct exposure metrics, systemic risk indicators, early warning signals with iconography
+14. **Geopolitics options matrix**: Four strategic approaches for smaller economies (Application Layer, Regional Collaboration, Open-Source, Strategic Partnerships) with icons
+
+### Closing
+15. **Ricardo redux**: Opening portrait with timeline annotations "1817: Optimistic → 1821: Changed mind → 2025: We have hindsight as foresight". Historical tech transitions timeline ending with "AI (?)" and "Your choice"
+16. **Final thought slide**: Singapore motto prominent, subtle network background, four questions in large text, bottom: "The choice is yours" - focus on human agency, minimal tech imagery
+
+### General Design Principles
+- Use consistent color scheme: Professional blues/greens for stability, strategic reds for warnings, gold for opportunities
+- Keep charts clean and uncluttered - this audience reads data fluently
+- Include source citations on all data visualizations
+- Use high-quality historical images where appropriate
+- Balance data-heavy slides with conceptual diagrams
+- Ensure all text is readable from back of room (minimum 24pt font)
+- Prepare backup static images for all live demos in case of connectivity issues
 
 ---
 
