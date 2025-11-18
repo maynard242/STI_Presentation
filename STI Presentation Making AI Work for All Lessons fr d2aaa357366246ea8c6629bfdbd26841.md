@@ -2,8 +2,6 @@
 
 **90-minute Interactive Presentation for Central Banks and Finance Ministries**
 
-*Date: TBD*
-
 *Venue: Singapore Training Institute of the IMF*
 
 *Audience: Senior policymakers from central banks and ministries of finance across Asia*
@@ -12,7 +10,7 @@
 
 ## Synopsis
 
-**Will we manage AI’s challenges better than we managed globalization, or repeat those mistakes?** Artificial intelligence is transforming our world faster than any previous technological revolution. Through live demonstrations and lessons from past disruptions, this interactive session reveals why central banks face a critical choice challenges - both the opportunity and the inevitable instability ahead. The question isn't whether AI transforms economies—it's about how we manage transition for the benefit our citizens. 
+**Will we manage AI's challenges better than we managed globalization, or repeat those mistakes?** Artificial intelligence is transforming our world faster than any previous technological revolution. Through live demonstrations and lessons from past disruptions, this interactive session reveals why central banks face a critical choice: seize the opportunity while managing the inevitable instability ahead. The question isn't whether AI transforms economies—it's how we manage the transition for the benefit of our citizens. 
 
 ---
 
@@ -100,6 +98,15 @@
 
 </aside>
 
+<aside>
+⚠️
+
+**Critical Ground Rules Before We Start**:
+
+AI will confidently hallucinate numbers and facts. It cannot truly understand political context or institutional constraints. It doesn't know what it doesn't know. Use it as a research assistant, not a decision-maker. **Always verify outputs.** The tool is powerful, but it's not wise—that's your job.
+
+</aside>
+
 ### Demo 1: Draft a Financial Stability Report Summary (3 min)
 
 **Prompt**: "Draft a 200-word executive summary for a Financial Stability Report covering: rising household debt (85% GDP), commercial real estate stress (18% vacancy), improving bank capital (14.2% Tier 1). Tone: measured but alert."
@@ -110,15 +117,13 @@
 
 ---
 
-### Demo 2: Generate Three Economic Scenarios (3 min)
+### Demo 2: Extract Key Policy Changes from Multiple Documents (3 min)
 
-**Prompt**: "I'm a central bank governor. Generate three scenarios for 2026: baseline, downside shock, upside surprise. Cover GDP, inflation, unemployment, policy implications. Context: small open economy, trade-dependent, 3.2% inflation."
+**Prompt**: "I'm uploading the last 3 FOMC statements. Extract and summarize: (1) changes in forward guidance language, (2) shifts in risk assessment, (3) changes in policy stance. Present in a comparison table."
 
-**Result**: Three detailed scenarios with ranges and implications.
+**Result**: AI extracts specific language changes, identifies subtle shifts in tone, presents structured comparison showing policy evolution.
 
-**Follow-up**: "Now take the downside scenario—what are three early warning indicators?"
-
-**Point**: "Scenario planning that took a team days starts in minutes. AI explores the possibility space. You validate and add local knowledge it can't have."
+**Point**: "Document analysis that took hours of manual comparison happens in seconds. AI excels at pattern-matching across large text bodies. You still need to interpret the significance—but AI handles the extraction."
 
 ---
 
@@ -136,14 +141,7 @@
 
 ### Debrief (1 min)
 
-*"These three use cases—writing, scenario planning, analysis—represent 60-70% of knowledge work. Not the core decisions, but the scaffolding around them. The question isn't whether you use AI. It's whether you learn to use it well before your competitors do."*
-
-<aside>
-⚠️
-
-**Critical Caveat**: AI will confidently give you wrong numbers. It will miss political context. The tool is powerful, but it's not wise. That's your job.
-
-</aside>
+*"These three use cases—writing, document analysis, red-teaming—represent 60-70% of knowledge work. Not the core decisions, but the scaffolding around them. The question isn't whether you use AI. It's whether you learn to use it well before your peers do—building institutional capability before the technology becomes table stakes."*
 
 ---
 
@@ -208,6 +206,33 @@
 
 **Success Pattern**: Identify clear problem → pilot in controlled environment → measure rigorously → scale gradually → maintain human oversight
 
+**The Cost Question: What's the Real Investment?**
+
+Entry points vary widely based on approach:
+
+**Low-cost start ($50K-200K annually):**
+- Commercial API access (OpenAI, Anthropic, Google)
+- Limited pilot use cases (2-3 teams)
+- Minimal infrastructure changes
+- Quick wins in document processing, research assistance
+
+**Mid-scale deployment ($500K-2M annually):**
+- Enterprise agreements with SLAs
+- Custom integrations with existing systems
+- Data governance and security infrastructure
+- Broader organizational deployment (50-200 users)
+
+**Strategic capability build ($5M-20M over 3-5 years):**
+- Dedicated compute infrastructure
+- Model fine-tuning and customization
+- Comprehensive data pipelines
+- Organization-wide transformation
+- Singapore's approach: $1B national investment over 5 years
+
+**ROI timeline:** Early productivity gains (20-30%) appear in months. Full workflow transformation takes 2-3 years. Most institutions see positive ROI within 12-18 months for well-scoped pilots.
+
+**Key insight:** Start small, prove value, then scale. Don't wait for budget certainty—pilot costs are comparable to hiring one senior analyst.
+
 ---
 
 ### Pillar 3: Ecosystem Approach
@@ -225,9 +250,26 @@
 
 **Interactive Exercise (5 min)**: AI Maturity Self-Assessment
 
-Rate your institution across three pillars (1-5). Identify: critical gaps, quick wins, blockers.
+Rate your institution 1-5 on each dimension (1=not started, 5=advanced):
 
-*Table discussion + 1-2 volunteers share.*
+**Pillar 1 - Institutional Readiness:**
+- Governance: Board-level AI strategy, risk appetite framework, ethical guidelines
+- Talent: Staff AI literacy programs, training investments, technical hiring
+- Infrastructure: Secure compute access, data governance policies, model risk management
+
+**Pillar 2 - Strategic Use Cases:**
+- Pilots: Number and quality of AI pilots underway
+- Production: AI systems deployed in live operations
+- Measurement: ROI tracking, performance metrics, lessons learned
+
+**Pillar 3 - Ecosystem Engagement:**
+- Partnerships: Collaboration with tech providers, academia, peer institutions
+- Standards: Participation in international AI governance frameworks
+- Knowledge sharing: Contributing to and learning from global AI community
+
+**After scoring**: Identify (1) your critical gap, (2) one quick win within reach, (3) biggest blocker.
+
+*3 min table discussion + 1-2 volunteers share insights with full group.*
 
 </aside>
 
@@ -388,6 +430,28 @@ Railway mania bankrupted investors but left Britain with essential infrastructur
 - Competition policy to prevent winner-take-all
 - Ensure productivity gains are broadly shared
 
+**What Central Banks Should Monitor Right Now:**
+
+*Direct exposure metrics:*
+- Banking sector holdings in AI-focused equities and bonds
+- Pension fund and insurance company AI sector allocation
+- Sovereign wealth fund exposure to AI infrastructure
+- Credit extended to AI companies and data center developments
+
+*Systemic risk indicators:*
+- Correlation in AI model usage across major banks (procyclicality risk)
+- Concentration in cloud/compute providers (single points of failure)
+- Cross-border capital flows into AI investments
+- Margin lending against AI stocks
+
+*Early warning signals:*
+- Divergence between AI company revenues and market valuations
+- Sharp increases in retail investor participation in AI stocks
+- Acceleration in data center construction without corresponding demand
+- "AI-washing" in earnings calls (mentions without substance)
+
+**Recommended stress test**: Model 50-70% correction in AI-heavy equity indices over 6-12 months. Assess: (1) direct portfolio losses, (2) credit quality deterioration, (3) contagion to broader markets, (4) liquidity stress scenarios.
+
 <aside>
 💡
 
@@ -439,7 +503,35 @@ Railway mania bankrupted investors but left Britain with essential infrastructur
 
 **Implications**: Dependence on foreign AI infrastructure, data sovereignty concerns, need for regional capabilities
 
-**Example**: SEA-LION provides open-source alternative, reducing dependence on external providers.
+**Strategic Options for Smaller Economies:**
+
+**Don't try to compete on foundation models** (requires billions in capital, specialized talent, massive compute)
+
+**Instead, focus on:**
+
+1. **Application Layer Excellence**
+   - Build AI solutions for local problems (regulatory compliance, regional languages, domestic market needs)
+   - Use APIs from frontier models as infrastructure
+   - Develop domain expertise, not compute capacity
+
+2. **Regional Collaboration**
+   - Pool resources with neighboring countries (SEA-LION model: 11 countries, shared investment)
+   - Share compute infrastructure through regional data centers
+   - Coordinate on standards and governance frameworks
+
+3. **Open-Source Leverage**
+   - Deploy and fine-tune open models (Llama, Mistral, regional models)
+   - Contribute improvements back to community
+   - Reduce vendor lock-in and dependency risks
+
+4. **Strategic Partnerships**
+   - Negotiate sovereign cloud agreements with major providers
+   - Require data residency and local processing
+   - Build "AI-ready" infrastructure even if not building models
+
+**SEA-LION Case Study**: Singapore, Malaysia, Indonesia, Thailand, Philippines, Vietnam, Cambodia, Laos, Myanmar, Brunei, and Timor-Leste pooled resources to build regional LLM capability. No single country could have done it alone. Result: reduced dependence, improved local language support, shared costs.
+
+**Key Insight**: Sovereignty doesn't mean autarky. Strategic interdependence through regional collaboration beats dependency on distant superpowers.
 
 ---
 
@@ -528,6 +620,27 @@ History shows: The complementary investments determine whether technology delive
 - **Learn from globalization's failures**
 
 **Remember**: The populism we see today stems from how poorly we managed globalization. We cannot afford to repeat that mistake with AI.
+
+---
+
+### 4. A Question for Collective Action
+
+Individual institutional action matters. But this room represents something more powerful: **the regulatory architecture of Asia's financial system**.
+
+**What can we do together that none of us can do alone?**
+
+Possible areas for regional coordination:
+
+- **Shared AI stress testing frameworks** for financial stability
+- **Cross-border model validation standards** to reduce duplication
+- **Regional compute infrastructure** (pool resources like SEA-LION)
+- **Coordinated approach to AI governance** in financial regulation
+- **Joint talent development programs** and knowledge exchange
+- **Early warning system** for AI-driven market risks
+
+**Challenge to this group**: Within 6 months, could we establish an Asia-Pacific Central Bank AI Working Group? Regular convenings, shared research, coordinated experiments.
+
+The technology will arrive whether we coordinate or not. But coordinated responses amplify impact and reduce individual risk.
 
 ---
 
@@ -637,9 +750,10 @@ Volunteers share. Write them down. Follow up in 30 days.
 
 **Contact:**
 
-- AI Singapore: [AI Singapore](https://www.notion.so/AI-Singapore-2832a2b68923808da05bf1d70db4f4c9?pvs=21)
-- SEA-LION project details and API access
-- Singapore Training Institute coordination
+- AI Singapore: https://aisingapore.org
+- SEA-LION project: https://aisingapore.org/sea-lion/
+- Monetary Authority of Singapore (MAS): https://www.mas.gov.sg/development/fintech/artificial-intelligence
+- Singapore Training Institute (STI): https://www.imf.org/en/Capacity-Development/Training/IMF-Singapore
 
 ---
 
@@ -654,3 +768,49 @@ Volunteers share. Write them down. Follow up in 30 days.
 **Adaptation**: Be ready to go deeper on financial stability vs. broader policy depending on audience. If time runs short, compress Singapore section to 7 min and cut one demo to 2 min.
 
 **Authenticity**: Acknowledge uncertainties honestly. You don't have all answers—neither does anyone else. That's why we need institutional collaboration.
+
+---
+
+## Timing Safeguards & Backup Plans
+
+**Current status**: Presentation runs ~95 minutes with full content. Target is 90 minutes with Q&A buffer.
+
+**If running long (check at 45-min mark):**
+
+*Option 1 - Compress Singapore section (saves 3 min):*
+- Skip SEA-LION detailed lessons (lines 295-303)
+- Keep only high-level national strategy points
+- Preserve MAS use cases (credibility for audience)
+
+*Option 2 - Reduce demos to 2 (saves 3-4 min):*
+- Keep Demo 1 (Financial Stability Report - most relevant)
+- Keep Demo 3 (Red-teaming - most impressive)
+- Skip Demo 2 (Document extraction - least critical)
+
+*Option 3 - Tighten Challenge 1 discussion (saves 2-3 min):*
+- Keep Perez framework and key concepts
+- Reduce detailed bullet points on bubble risks
+- Preserve monitoring actions (actionable for audience)
+
+**If Challenge 1 discussion runs long (likely scenario):**
+- This section often generates 10+ min of debate
+- Have moderator ready to capture questions for follow-up
+- Table detailed discussion for Q&A or post-session
+- Preserve the framework, compress the examples
+
+**Demo backup plan (if internet fails):**
+- Screenshot deck prepared for all three demos
+- Saved example outputs in appendix
+- Can walk through examples without live execution
+- Loses interactivity but preserves content
+
+**Interactive exercise timing:**
+- Self-assessment: Hard stop at 5 min (set visible timer)
+- Dot voting: Hard stop at 5 min
+- If time pressure: Skip volunteer sharing, just do activity
+
+**Minimum viable presentation (75 min if emergency):**
+- Part I: 25 min (cut 1 demo, compress horizons to 5 min)
+- Part II: 25 min (Singapore to 7 min, skip self-assessment)
+- Part III: 20 min (compress challenges to 3 min each)
+- Closing: 5 min (keep full - this is the payoff)
