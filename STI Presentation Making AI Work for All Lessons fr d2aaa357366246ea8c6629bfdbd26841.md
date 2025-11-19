@@ -475,7 +475,7 @@ Perez's *Technological Revolutions and Financial Capital* (2002) shows every maj
 - Distinguish speculative excess from genuine innovation
 - Launch regulatory reform to enable "golden age"
 
-**The Railway Analogy:**
+  **The Railway Analogy:**
 
 Railway mania bankrupted investors but left Britain with essential infrastructure that enabled a century of growth. **Key lesson**: Bubble can be financially destructive yet economically productive.
 
@@ -853,7 +853,7 @@ Volunteers share. Write them down. Follow up in 30 days.
 
 ---
 
-## Speaker Notes
+  ## Speaker Notes
 
 **Tone**: Conversational yet authoritative. You're a peer with relevant experience, not a lecturer.
 
