@@ -2,6 +2,8 @@
 
 **90-minute Interactive Presentation for Central Banks and Finance Ministries**
 
+*Date: TBD*
+
 *Venue: Singapore Training Institute of the IMF*
 
 *Audience: Senior policymakers from central banks and ministries of finance across Asia*
@@ -15,6 +17,7 @@
 **Speaker Note**: This session is designed for senior policymakers who need both conceptual frameworks and practical guidance. You'll see live AI demonstrations, engage with historical patterns from technological revolutions, and leave with actionable strategies. The goal is not to make you AI experts, but to equip you with the institutional perspective needed to navigate this transformation—recognizing both the genuine opportunities and the inevitable disruptions ahead. We'll balance optimism with realism, drawing on Singapore's experience while acknowledging the uncertainties that remain.
 
 **Visual Suggestion**: Opening slide with split image - historical industrial revolution scene on left, modern AI data center on right, with timeline arrow connecting them. Title overlay: "Will we get it right this time?" 
+**Will we manage AI’s challenges better than we managed globalization, or repeat those mistakes?** Artificial intelligence is transforming our world faster than any previous technological revolution. Through live demonstrations and lessons from past disruptions, this interactive session reveals why central banks face a critical choice challenges - both the opportunity and the inevitable instability ahead. The question isn't whether AI transforms economies—it's about how we manage transition for the benefit our citizens. 
 
 ---
 
@@ -146,6 +149,15 @@ AI will confidently hallucinate numbers and facts. It cannot truly understand po
 **Result**: AI extracts specific language changes, identifies subtle shifts in tone, presents structured comparison showing policy evolution.
 
 **Point**: "Document analysis that took hours of manual comparison happens in seconds. AI excels at pattern-matching across large text bodies. You still need to interpret the significance—but AI handles the extraction."
+### Demo 2: Generate Three Economic Scenarios (3 min)
+
+**Prompt**: "I'm a central bank governor. Generate three scenarios for 2026: baseline, downside shock, upside surprise. Cover GDP, inflation, unemployment, policy implications. Context: small open economy, trade-dependent, 3.2% inflation."
+
+**Result**: Three detailed scenarios with ranges and implications.
+
+**Follow-up**: "Now take the downside scenario—what are three early warning indicators?"
+
+**Point**: "Scenario planning that took a team days starts in minutes. AI explores the possibility space. You validate and add local knowledge it can't have."
 
 ---
 
@@ -164,6 +176,14 @@ AI will confidently hallucinate numbers and facts. It cannot truly understand po
 ### Debrief (1 min)
 
 *"These three use cases—writing, document analysis, red-teaming—represent 60-70% of knowledge work. Not the core decisions, but the scaffolding around them. The question isn't whether you use AI. It's whether you learn to use it well before your peers do—building institutional capability before the technology becomes table stakes."*
+*"These three use cases—writing, scenario planning, analysis—represent 60-70% of knowledge work. Not the core decisions, but the scaffolding around them. The question isn't whether you use AI. It's whether you learn to use it well before your competitors do."*
+
+<aside>
+⚠️
+
+**Critical Caveat**: AI will confidently give you wrong numbers. It will miss political context. The tool is powerful, but it's not wise. That's your job.
+
+</aside>
 
 ---
 
@@ -206,6 +226,13 @@ AI will confidently hallucinate numbers and facts. It cannot truly understand po
 **Speaker Note**: Every successful technology transition required active government. The invisible hand doesn't build public education systems, labor protections, or social safety nets. Markets deploy technology efficiently; they don't ensure transitions are equitable. That's your job. The question isn't whether AI will improve productivity—it will. The question is whether 20 years from now, you'll look back and say "we got the transition right" or "we repeated our mistakes."
 
 **Visual Suggestion**: Three-panel comparison chart: Industrial Revolution (60-year wage lag), Electricity (30-year adoption lag), Information Revolution (20-year productivity lag with inequality surge). Each panel shows the lag period in red, eventual gains in green, with annotation of key policy responses that eventually worked.
+
+### The Central Question for This Room
+
+> **"Will we manage the AI transition better than we managed globalization? Because the social and political costs of getting this wrong are already visible."**
+> 
+
+**Key Insight**: The transitions that worked best had **strong public sector leadership** coordinating investments in education, infrastructure, legal reform, and social safety nets.
 
 ---
 
@@ -304,6 +331,9 @@ Rate your institution 1-5 on each dimension (1=not started, 5=advanced):
 **After scoring**: Identify (1) your critical gap, (2) one quick win within reach, (3) biggest blocker.
 
 *3 min table discussion + 1-2 volunteers share insights with full group.*
+Rate your institution across three pillars (1-5). Identify: critical gaps, quick wins, blockers.
+
+*Table discussion + 1-2 volunteers share.*
 
 </aside>
 
@@ -582,6 +612,7 @@ Railway mania bankrupted investors but left Britain with essential infrastructur
 **SEA-LION Case Study**: Singapore, Malaysia, Indonesia, Thailand, Philippines, Vietnam, Cambodia, Laos, Myanmar, Brunei, and Timor-Leste pooled resources to build regional LLM capability. No single country could have done it alone. Result: reduced dependence, improved local language support, shared costs.
 
 **Key Insight**: Sovereignty doesn't mean autarky. Strategic interdependence through regional collaboration beats dependency on distant superpowers.
+**Example**: SEA-LION provides open-source alternative, reducing dependence on external providers.
 
 ---
 
@@ -702,6 +733,10 @@ The technology will arrive whether we coordinate or not. But coordinated respons
 
 > **"AI for the Public Good, for Singapore and the World"** — Singapore's National AI Strategy
 >
+## Final Thought
+
+> **"AI for the Public Good, for Singapore and the World"** — Singapore's National AI Strategy
+> 
 
 The technology will arrive regardless. The algorithms will improve. The models will get more capable.
 
@@ -812,6 +847,9 @@ Volunteers share. Write them down. Follow up in 30 days.
 - SEA-LION project: https://aisingapore.org/sea-lion/
 - Monetary Authority of Singapore (MAS): https://www.mas.gov.sg/development/fintech/artificial-intelligence
 - Singapore Training Institute (STI): https://www.imf.org/en/Capacity-Development/Training/IMF-Singapore
+- AI Singapore: [AI Singapore](https://www.notion.so/AI-Singapore-2832a2b68923808da05bf1d70db4f4c9?pvs=21)
+- SEA-LION project details and API access
+- Singapore Training Institute coordination
 
 ---
 
@@ -913,3 +951,4 @@ This section consolidates all visual suggestions for easy reference when designi
 - Part II: 25 min (Singapore to 7 min, skip self-assessment)
 - Part III: 20 min (compress challenges to 3 min each)
 - Closing: 5 min (keep full - this is the payoff)
+**Authenticity**: Acknowledge uncertainties honestly. You don't have all answers—neither does anyone else. That's why we need institutional collaboration.
